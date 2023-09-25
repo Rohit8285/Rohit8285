@@ -29,5 +29,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit8285&show_icons=true&locale=en" alt="rohit8285" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit8285&" alt="rohit8285" /></p>
+
+<p><img align="center" src="https://www.hackerrank.com/certificates/iframe/67cf204ee295" alt="CSS certificate" /></p>
+<p><img align="center" src="https://www.hackerrank.com/certificates/iframe/76b648de7116" alt="javascript beginner" /></p>
+<p><img align="center" src="https://www.hackerrank.com/certificates/iframe/73b856aa2ec0" alt="javascript intermediate" /></p>
+<p><img align="center" src="https://www.hackerrank.com/certificates/iframe/cdf0c545668c" alt="node certificate" /></p>
 
