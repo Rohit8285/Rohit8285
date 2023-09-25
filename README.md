@@ -31,10 +31,10 @@
 
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: column ;">
-    <p><img src="./img/css-hk.jpg" width="775px" height="500px" alt="CSS certificate" /></p>
-    <p><img src="./img/js-basic-hk.jpg" width="775px" height="500px" alt="javascript beginner" /></p>
-    <p><img src="./img/js-inter-hk.jpg" width="775px" height="500px" alt="javascript intermediate" /></p>
-    <p><img src="./img/node-hk.jpg" width="775px" height="500px" alt="node certificate" /></p>
+    <p><img src="./img/css-hk.jpg" width="780px" height="500px" alt="CSS certificate" /></p>
+    <p><img src="./img/js-basic-hk.jpg" width="780px" height="500px" alt="javascript beginner" /></p>
+    <p><img src="./img/js-inter-hk.jpg" width="780px" height="500px" alt="javascript intermediate" /></p>
+    <p><img src="./img/node-hk.jpg" width="780px" height="500px" alt="node certificate" /></p>
 
 </div>
 
