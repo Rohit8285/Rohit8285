@@ -30,8 +30,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit8285&show_icons=true&locale=en" alt="rohit8285" /></p>
 
 
-<p><img align="center" src="./img/css-hk.jpg" width="250px" height="250px" alt="CSS certificate" /></p>
-<p><img align="center" src="./img/js-basic-hk.jpg" width="250px" height="250px" alt="javascript beginner" /></p>
-<p><img align="center" src="./img/js-inter-hk.jpg" width="250px" height="250px" alt="javascript intermediate" /></p>
-<p><img align="center" src="./img/node-hk.jpg" width="250px" height="250px" alt="node certificate" /></p>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: column ;">
+    <p><img src="./img/css-hk.jpg" width="770px" height="500px" alt="CSS certificate" /></p>
+    <p><img src="./img/js-basic-hk.jpg" width="770px" height="500px" alt="javascript beginner" /></p>
+    <p><img src="./img/js-inter-hk.jpg" width="770px" height="500px" alt="javascript intermediate" /></p>
+    <p><img src="./img/node-hk.jpg" width="770px" height="500px" alt="node certificate" /></p>
+
+</div>
 
