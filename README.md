@@ -27,11 +27,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit8285&" alt="rohit8285" /></p>
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-direction: column ;">
+    <p><img src="./img/google-analytics-certification.jpg" width="680px" height="400px" alt="google-analyst" /></p>
+    <p><img src="./img/google-analyst-C.jpg" width="680px" height="400px" alt="google-analyst-C.jpg" /></p>
     <p><img src="./img/css-hk.jpg" width="680px" height="400px" alt="CSS certificate" /></p>
     <p><img src="./img/js-basic-hk.jpg" width="680px" height="400px" alt="javascript beginner" /></p>
-    <p><img src="./img/js-inter-hk.jpg" width="680px" height="400px" alt="javascript intermediate" /></p>
-    <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p>
-    <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p>
-    <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p>
+<!--     <p><img src="./img/js-inter-hk.jpg" width="680px" height="400px" alt="javascript intermediate" /></p> -->
+<!--     <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p> -->
 </div>
 
