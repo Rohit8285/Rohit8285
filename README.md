@@ -31,5 +31,7 @@
     <p><img src="./img/js-basic-hk.jpg" width="680px" height="400px" alt="javascript beginner" /></p>
     <p><img src="./img/js-inter-hk.jpg" width="680px" height="400px" alt="javascript intermediate" /></p>
     <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p>
+    <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p>
+    <p><img src="./img/node-hk.jpg" width="680px" height="400px" alt="node certificate" /></p>
 </div>
 
