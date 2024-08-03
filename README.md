@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Lathiyan</h1>
-<h3 align="center">A passionate about web development and leave in India</h3>
+<h3 align="center">Passionate SEO Analyst at HindSoft Technology, based in India. Eager to learn and excel in web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit8285&label=Profile%20views&color=0e75b6&style=flat" alt="rohit8285" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit8285" alt="rohit8285" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Digital Marketing**
 
-- 💬 Ask me about **html ,CSS ,Bootstrap,javascript,node**
+- 💬 Ask me about **HTML ,CSS , Bootstrap , javascript ,  SEO-Specialization In PHP Site And also Work on Custom coded Website**
 
 - 📫 How to reach me **rohitlathiyan@gmail.com**
 
